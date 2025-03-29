@@ -30,4 +30,21 @@ b. Multilingual Product Search API: Implement an API that enables searching for 
 Additional Requirements: 
 
 
+<p>
+• Validation: Outline how you will validate data inputs in both APIs to ensure data integrity.  <br/>
+</p>
+<p>
+• Database Design: Describe the database schema and the approach you will use to handle multilingual support for product information.  <br/>
+</p>
+
+<p>
+• Testing Strategy: Explain your strategy for testing these APIs, including how you will handle unit tests, integration tests, and any end-to-end testing considerations.Please provide a  detailed explanation of your design decisions for each of these 
+aspects. <br/>
+</p>
+
+
+
+
+
+
 
