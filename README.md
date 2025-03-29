@@ -8,7 +8,7 @@
 <p> Ans .</p>
 <p>
 จาก sequence diagram  client จะเรียก api ไปที่ microservice ที่เป็น new feature แล้ว microservice ตัวนี้จะทำการเรียก service อีก 3 ตัวเพื่อ รวบรวมข้อมูลจากทั้ง 3 service 
-Main หลักคือต้องการข้อมูลของ customer service ถ้า query data customer ไม่พบ ก็ต้อง response error ออกไปเลยเพื่อไม่ให้ใช้ทรัพยากรโดยสูยเปล่า /n
+Main หลักคือต้องการข้อมูลของ customer service ถ้า query data customer ไม่พบ ก็ต้อง response error ออกไปเลยเพื่อไม่ให้ใช้ทรัพยากรโดยสูยเปล่า <br />
 1. ข้อมูล customer เรียกหา service ด้วย customerId
 2. master data  ในความเข้าใจ master data จะเป็น data ที่ไม่มีการเปลี่ยนแปลงบ่อยนานๆ update data ครั้ง สามารถ caching ด้วยการใช้ redis เพื่อความรวดเร็วทมี่มากขึ้น
 3. Transaction จะ query data ด้วย customerId มีการทำ pagination เป็น option
