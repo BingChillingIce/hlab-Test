@@ -25,7 +25,7 @@ Main หลักคือต้องการข้อมูลของ custo
 
 
 ## 3. Design and develop with robust test two APIs using NestJS and Postgres with the following specifications: 
-a. Create a Multilingual Product API: Develop an API that allows for the creation of products, each with attributes for name and description that support multiple languages.
+a. Create a Multilingual Product API: Develop an API that allows for the creation of products, each with attributes for name and description that support multiple languages. <br/>
 b. Multilingual Product Search API: Implement an API that enables searching for products by name in any language and returns results in a paginated format. 
 Additional Requirements: 
 
