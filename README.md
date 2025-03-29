@@ -1,7 +1,6 @@
 
-<h4> 
-1. Assuming the system currently has three microservices: Customer API, Master Data API, and Transaction Data API, there is a new feature that requires data from all three microservices to be displayed in near real-time. The current technology stack includes REST APIs and an RDBMS database. How would you design a new API for this feature? 
-<h4>
+##1. Assuming the system currently has three microservices: Customer API, Master Data API, and Transaction Data API, there is a new feature that requires data from all three microservices to be displayed in near real-time. The current technology stack includes REST APIs and an RDBMS database. How would you design a new API for this feature? 
+
 
 ![Screenshot 2025-03-29 192259](https://github.com/user-attachments/assets/ca9ef4ce-22eb-43fc-9b02-4823cd9f4ff2) 
 
@@ -15,9 +14,9 @@ Main หลักคือต้องการข้อมูลของ custo
 ทั้ง 3 service นี้ จะถูกเรียกหาในพร้อมๆกัน เพื่อความรวดเร็ว
 </p>
 
-<p>
-2. Assuming the team has started planning a new project, the project manager asks you for a performance test strategy plan for this release. How would you recommend proceeding to the project manager? 
-</p>
+
+## 2. Assuming the team has started planning a new project, the project manager asks you for a performance test strategy plan for this release. How would you recommend proceeding to the project manager? 
+
 
 <p> Ans .</p>
 <p>
