@@ -16,7 +16,7 @@ Main หลักคือต้องการข้อมูลของ custo
 </p>
 
 <p>
-Assuming the team has started planning a new project, the project manager asks you for a performance test strategy plan for this release. How would you recommend proceeding to the project manager? 
+2. Assuming the team has started planning a new project, the project manager asks you for a performance test strategy plan for this release. How would you recommend proceeding to the project manager? 
 </p>
 
 <p> Ans .</p>
